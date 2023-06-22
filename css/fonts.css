@@ -1,0 +1,60 @@
+/*
+ * Asap
+================================================================================ */
+@font-face {
+    font-family: 'asap-bold';
+    src: url('../fonts/asap/Asap-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'asap-bold-italic';
+    src: url('../fonts/asap/Asap-BoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'asap-italic';
+    src: url('../fonts/asap/Asap-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'asap-medium';
+    src: url('../fonts/asap/Asap-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'asap-medium-italic';
+    src: url('../fonts/asap/Asap-MediumItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'asap-regular';
+    src: url('../fonts/asap/Asap-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'asap-semibold';
+    src: url('../fonts/asap/Asap-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'asap-semibold-italic';
+    src: url('../fonts/asap/Asap-SemiBoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
